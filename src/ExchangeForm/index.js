@@ -19,8 +19,7 @@ function ExchangeForm({ form }) {
     wrapperCol: { span: 14 },
   };
 
-   function handleSubmit(x, y) {
-     debugger;
+   function handleSubmit() {
     form.validateFields(async (err, values) => {
       if (!err) {
         try {
