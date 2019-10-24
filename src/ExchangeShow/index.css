@@ -1,0 +1,10 @@
+@import '~antd/dist/antd.css';
+
+p {
+  font-size: 14px;
+}
+
+.exchange-show {
+  border: solid #adaaaa;
+  text-transform: capitalize;
+}

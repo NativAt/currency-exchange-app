@@ -1,0 +1,9 @@
+@import '~antd/dist/antd.css';
+
+.exchange-form {
+  border: solid #adaaaa; 
+}
+
+.align-center {
+  text-align: center;
+}
